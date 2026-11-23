@@ -1,5 +1,6 @@
 ---
 title: Pocket: Ping Privacy Policy
+description: Pocket: Ping privacy policy
 ---
 
 # Pocket: Ping Privacy Policy
